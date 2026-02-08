@@ -55,6 +55,11 @@ graph TD
 
 ## 📂 2. Portfolio Artefacts (Deep Dive)
 
+### Discovery & Learning
+*Stakeholder engagement and requirement elicitation.*
+- [📄 Stakeholder Questions & Plan](./discovery/stakeholder-questions.md)
+  *Structured interview guide for Policy, Ops, and Technical SMEs.*
+
 ### Requirements Engineering
 *Behaviour-Driven Development specifications.*
 - [📄 Intake Validation Scenarios](./src/features/triage.feature)
