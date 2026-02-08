@@ -1,0 +1,12 @@
+{
+  "submission_id": "UUID-v4",
+  "timestamp": "2026-02-08T10:00:00Z",
+  "applicant": {
+    "nino_hash": "sha256_hashed_value",
+    "postcode": "SW1A 1AA"
+  },
+  "triage_metadata": {
+    "risk_score": 0,
+    "routing_queue": "standard_assessment"
+  }
+}
