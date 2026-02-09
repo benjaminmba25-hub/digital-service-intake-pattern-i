@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![GDS](https://img.shields.io/badge/GDS_Standard-Aligned-green?style=flat-square)
 
-**Junior Business Analyst Portfolio | Public Sector Digital Optimisation**
+**Technical Business Analyst Portfolio | Public Sector Digital Optimisation**
 
 ## The Problem
 In high-volume public sector intake (DWP benefits, NHS referrals, Local Government permits), **30% of submissions fail initial validation** due to missing or conflicting data. This creates "swivel chair" rework for caseworkers and delays for citizens.
