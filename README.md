@@ -53,7 +53,7 @@ graph TD
     class D system
 ```
 
-## 📂 2. Portfolio Artefacts (Deep Dive)
+## 📂 2. Portfolio Artefacts
 
 ### Discovery & Learning
 *Stakeholder engagement and requirement elicitation.*
