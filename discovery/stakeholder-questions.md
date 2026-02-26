@@ -3,12 +3,37 @@
 **Objective:** Validation of "As-Is" pain points and "To-Be" feasibility.
 
 ## 1. Key Stakeholders
-| Role | Context | Goal of Interview |
-| :--- | :--- | :--- |
-| **Service Owner** | Accountable for the service budget/risk. | Define "Success Metrics" (e.g., reduce failure demand by 20%). |
-| **Policy Lead** | Owns the legislation/rules. | Confirm which eligibility criteria are "Hard Law" vs "Guidance". |
-| **Caseworker** | Users of the internal system. | Identify "Swivel Chair" tasks and workaround behaviors. |
-| **Technical Architect** | Owns the legacy infrastructure. | Determine API availability for address/identity checks. |
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Context</th>
+      <th>Goal of Interview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Service Owner</strong></td>
+      <td>Accountable for the service budget/risk.</td>
+      <td>Define "Success Metrics" (e.g., reduce failure demand by 20%).</td>
+    </tr>
+    <tr>
+      <td><strong>Policy Lead</strong></td>
+      <td>Owns the legislation/rules.</td>
+      <td>Confirm which eligibility criteria are "Hard Law" vs "Guidance".</td>
+    </tr>
+    <tr>
+      <td><strong>Caseworker</strong></td>
+      <td>Users of the internal system.</td>
+      <td>Identify "Swivel Chair" tasks and workaround behaviors.</td>
+    </tr>
+    <tr>
+      <td><strong>Technical Architect</strong></td>
+      <td>Owns the legacy infrastructure.</td>
+      <td>Determine API availability for address/identity checks.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 2. The "Killer Questions" (Elicitation Strategy)
 
@@ -27,7 +52,34 @@
 
 ## 3. Workshop Agenda: "The Art of the Possible"
 **Duration:** 60 Minutes
-1.  **Intro:** Review the problem statement (10 min).
-2.  **Activity:** "Rose, Bud, Thorn" mapping of current process (20 min).
-3.  **Review:** Walkthrough of the draft BPMN diagrams (20 min).
-4.  **Wrap:** Agree on next actions and decision points (10 min).
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Activity</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Intro</strong></td>
+      <td>Review the problem statement</td>
+      <td>10 min</td>
+    </tr>
+    <tr>
+      <td><strong>Activity</strong></td>
+      <td>"Rose, Bud, Thorn" mapping of current process</td>
+      <td>20 min</td>
+    </tr>
+    <tr>
+      <td><strong>Review</strong></td>
+      <td>Walkthrough of the draft BPMN diagrams</td>
+      <td>20 min</td>
+    </tr>
+    <tr>
+      <td><strong>Wrap</strong></td>
+      <td>Agree on next actions and decision points</td>
+      <td>10 min</td>
+    </tr>
+  </tbody>
+</table>
