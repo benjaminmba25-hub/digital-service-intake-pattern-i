@@ -11,10 +11,21 @@ A **Smart Intake** workflow that validates evidence *before* it reaches the deci
 ## 🔄 1. Process Analysis (The "As-Is" vs "To-Be")
 *Visualising the shift from manual failure demand to automated triage.*
 <img width="1160" height="616" alt="as-is-diagram" src="https://github.com/user-attachments/assets/118f0801-a95f-41ad-9742-0e74bb55955a" />
+**Key Pain Points:**
+- **2-3 day delay** for mailroom sorting and manual data entry
+- **5+ day rejection loop** when data is incomplete
+- High error rate due to manual transcription
+- Caseworker time consumed by low-value administrative tasks
+
 
 ### The "To-Be" Optimization (Smart Intake)
 *Automated triage reduces administrative burden by 90%.*
 <img width="1160" height="669" alt="to-be-diagram" src="https://github.com/user-attachments/assets/cb3fbef9-0d38-4b0a-a438-0d851173fc1b" />
+**Key Improvements:**
+- **Real-time validation** prevents submission of incomplete data
+- **Instant feedback loop** guides users to correct errors immediately
+- **Auto-triage logic** routes valid submissions for one-click approval
+- **90% reduction** in administrative burden
 
 ## 📂 2. Portfolio Artefacts
 
