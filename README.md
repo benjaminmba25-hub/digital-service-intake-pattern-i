@@ -1,7 +1,4 @@
 # The 'Right-First-Time' Intake Pattern
-![Status](https://img.shields.io/badge/Status-Prototype-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![GDS](https://img.shields.io/badge/GDS_Standard-Aligned-green?style=flat-square)
 
 **Technical Business Analyst Portfolio | Public Sector Digital Optimisation**
 
