@@ -10,45 +10,11 @@ A **Smart Intake** workflow that validates evidence *before* it reaches the deci
 
 ## 🔄 1. Process Analysis (The "As-Is" vs "To-Be")
 *Visualising the shift from manual failure demand to automated triage.*
-
-```mermaid
-graph TD
-    classDef delay fill:#f9f,stroke:#333,stroke-width:2px
-    classDef error fill:#ff9999,stroke:#f00,stroke-width:2px
-
-    subgraph "Current Manual Process"
-    A[User Fills Paper Form] -- Postage --> B(Mailroom Sorts)
-    B -- "Wait: 2-3 Days" --> C[Admin Manual Data Entry]
-    C --> D{Data Complete?}
-    D -- "No (Rejection)" --> E[Return to User]
-    E -- "Wait: 5+ Days" --> A
-    D -- Yes --> F[Manager Review Queue]
-    end
-
-    class B,F delay
-    class E error
-```
+<img width="1160" height="616" alt="as-is-diagram" src="https://github.com/user-attachments/assets/118f0801-a95f-41ad-9742-0e74bb55955a" />
 
 ### The "To-Be" Optimization (Smart Intake)
 *Automated triage reduces administrative burden by 90%.*
-
-```mermaid
-graph TD
-    classDef automation fill:#99ff99,stroke:#090,stroke-width:2px
-    classDef system fill:#e1f5fe,stroke:#0277bd,stroke-width:2px
-
-    subgraph "Digital Service Intake Pattern"
-    A[User Accesses Web Portal] --> B{Real-Time Validation}
-    B -- Error Found --> C[Instant Feedback Warning]
-    C --> A
-    B -- Valid Data --> D[Submit to API]
-    D --> E{Auto-Triage Logic}
-    E --> F[Admin One-Click Approval]
-    end
-
-    class B,E automation
-    class D system
-```
+<img width="1160" height="669" alt="to-be-diagram" src="https://github.com/user-attachments/assets/cb3fbef9-0d38-4b0a-a438-0d851173fc1b" />
 
 ## 📂 2. Portfolio Artefacts
 
